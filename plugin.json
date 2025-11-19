@@ -1,0 +1,8 @@
+{
+  "name": "promote_demote",
+  "version": "1.1.0",
+  "description": "Promote or demote Roblox users from Discord.",
+  "author": "Leon Lim",
+  "requirements": [],
+  "type": "plugin"
+}
