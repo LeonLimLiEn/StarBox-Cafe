@@ -1,8 +1,0 @@
-{
-  "name": "promote_demote",
-  "version": "1.0.0",
-  "description": "Promote or demote Roblox users from Discord using Python only.",
-  "author": "Leon Lim",
-  "requirements": ["noblox.py", "discord.py"],
-  "type": "plugin"
-}
